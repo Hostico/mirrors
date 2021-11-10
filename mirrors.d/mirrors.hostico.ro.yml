@@ -3,6 +3,10 @@ name: mirrors.hostico.ro
 address:
   http: http://mirrors.hostico.ro/almalinux/
   https: https://mirrors.hostico.ro/almalinux/
+geolocation:
+  country: RO
+  state_province: Bucharest
+  city: Bucharest
 update_frequency: 6h
 sponsor: Hostico
 sponsor_url: https://hostico.ro
